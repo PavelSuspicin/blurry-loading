@@ -20,10 +20,10 @@ body {
   position: absolute;
   top: -30px;
   left: -30px;
-  width: calc(100vw + 60px);
   height: calc(100vh + 60px);
-  z-index: -1;
+  width: calc(100vw + 60px);
   filter: blur(0px);
+  z-index: -1;
 }
 
 .loading-text {
